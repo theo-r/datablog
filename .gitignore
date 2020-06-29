@@ -11,5 +11,5 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
-_notebooks/blog.ipynb
 *.Identifier
+_notebooks/2020-02-20-test.ipynb
