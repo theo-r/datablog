@@ -11,6 +11,6 @@ or chasing a frisbee around a field.
 
 # Contact
 
-theo.rutter@gmail.com
+[theo.rutter@gmail.com](mailto:theo.rutter@gmail.com)
 
 
